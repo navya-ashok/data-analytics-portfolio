@@ -135,6 +135,9 @@ Specialized training in analytics methodologies, Power BI, and data visualizatio
 **Diploma in Computer Applications** - Kerala State RUTRONIX  
 Foundation in computer science, programming, and IT fundamentals
 
+**Diploma in Data Entry** - Kerala State RUTRONIX  
+Foundation in computer science, programming, and IT fundamentals
+
 **BSc Zoology** - Mahatma Gandhi University  
 Scientific research background emphasizing observation, analysis, and data interpretation
 
